@@ -18,6 +18,8 @@ TransFusion 모델 : Convolutional backbone과 transformer decoder기반의 dete
 https://github.com/SeungYoonLee1/Alpha_Project/blob/main/prepare_data.md
 
 ## Reference
+
+https://github.com/XuyangBai/TransFusion
 ```
 @article{bai2021pointdsc,
   title={{TransFusion}: {R}obust {L}iDAR-{C}amera {F}usion for {3}D {O}bject {D}etection with {T}ransformers},
