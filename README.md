@@ -12,7 +12,7 @@ TransFusion 모델 : Convolutional backbone과 transformer decoder기반의 dete
 ![Environment](https://user-images.githubusercontent.com/69844293/174957423-b63d7352-98d3-44ca-b8a1-c91a7f92e31f.png)
 
 ## 환경설정
-https://github.com/SeungYoonLee1/Alpha_Project/tree/main
+[https://github.com/SeungYoonLee1/Alpha_Project/tree/main](https://github.com/SeungYoonLee1/Alpha_Project/blob/main/setup_environment.md)
 
 
 ## Reference
